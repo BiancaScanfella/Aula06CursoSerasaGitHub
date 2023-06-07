@@ -1,0 +1,7 @@
+C:\Users\bianca.ascanfella\source\repos\Aula06CursoSerasaGitHub\Aula06CursoSerasaGitHub\bin\Debug\Aula06CursoSerasaGitHub.exe.config
+C:\Users\bianca.ascanfella\source\repos\Aula06CursoSerasaGitHub\Aula06CursoSerasaGitHub\bin\Debug\Aula06CursoSerasaGitHub.exe
+C:\Users\bianca.ascanfella\source\repos\Aula06CursoSerasaGitHub\Aula06CursoSerasaGitHub\bin\Debug\Aula06CursoSerasaGitHub.pdb
+C:\Users\bianca.ascanfella\source\repos\Aula06CursoSerasaGitHub\Aula06CursoSerasaGitHub\obj\Debug\Aula06CursoSerasaGitHub.csproj.AssemblyReference.cache
+C:\Users\bianca.ascanfella\source\repos\Aula06CursoSerasaGitHub\Aula06CursoSerasaGitHub\obj\Debug\Aula06CursoSerasaGitHub.csproj.CoreCompileInputs.cache
+C:\Users\bianca.ascanfella\source\repos\Aula06CursoSerasaGitHub\Aula06CursoSerasaGitHub\obj\Debug\Aula06CursoSerasaGitHub.exe
+C:\Users\bianca.ascanfella\source\repos\Aula06CursoSerasaGitHub\Aula06CursoSerasaGitHub\obj\Debug\Aula06CursoSerasaGitHub.pdb
